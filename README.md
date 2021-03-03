@@ -1,2 +1,4 @@
-# Portfolio
-## data science portfolio
+# Paarth Kashyap
+## Data Science Projects
+
+# [project 1: sales data analysis]
